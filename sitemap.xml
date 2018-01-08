@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xushihao.github.io/2018/01/05/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</loc>
+    <loc>http://xushihao.github.io/2018/01/05/hello-world/</loc>
     
-    <lastmod>2018-01-05T10:53:26.000Z</lastmod>
+    <lastmod>2018-01-08T03:10:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xushihao.github.io/404.html</loc>
+    
+    <lastmod>2018-01-08T03:04:46.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://xushihao.github.io/about/index.html</loc>
     
-    <lastmod>2018-01-05T09:09:56.000Z</lastmod>
+    <lastmod>2018-01-08T03:04:06.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://xushihao.github.io/2018/01/04/hello-world/</loc>
+    <loc>http://xushihao.github.io/search/index.html</loc>
     
-    <lastmod>2018-01-04T07:15:07.000Z</lastmod>
+    <lastmod>2018-01-08T03:03:08.000Z</lastmod>
     
   </url>
   
